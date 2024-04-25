@@ -4,14 +4,14 @@ Mi nombre es Ignacio, estudiante de DuocUC. Me apasiona la programación y estoy
 
 ## Sobre mí
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioRiffop&size_weight=0.5&count_weight=0.5)
-
 - 💻 Actualmente estoy estudiando Ingenieria en informatica.
 - 🌱 Estoy aprendiendo constantemente sobre nuevas tecnologías y herramientas.
 - 👯 Estoy buscando colaborar en proyectos interesantes y desafiantes.
 - 💬 Siempre estoy abierto/a a conversar sobre programación, proyectos o cualquier cosa que te apasione.
 
 ## Tecnologías que me interesan
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioRiffop&size_weight=0.5&count_weight=0.5)
 
 Aquí hay algunas tecnologías con las que estoy familiarizado/a o me gustaría aprender:
 
