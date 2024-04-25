@@ -26,8 +26,7 @@ Aquí hay algunas tecnologías con las que estoy familiarizado/a o me gustaría 
 Puedes echar un vistazo a algunos de mis proyectos destacados:
 
 1. [TelLLevoApp]([Enlace al Proyecto](https://github.com/IgnacioRiffop/TeLLevoApp)): Aplicacion movil de transporte de estudiantes Duoc.
-2. [Tienda de mascotas]([Enlace al Proyecto](https://github.com/IgnacioRiffop/Proyecto-Web)): Sistema web de mascotas.
-3. [Nombre del Proyecto](Enlace al Proyecto): Breve descripción del proyecto.
+2. [Tienda de mascotas]([Enlace al Proyecto](https://github.com/IgnacioRiffop/Proyecto-Web)): Sistema web de venta de productos para mascotas.
 
 ¡No dudes en contactarme si quieres colaborar en algún proyecto o simplemente charlar sobre programación!
 
