@@ -1,6 +1,3 @@
-### Hola!
-![Texto alternativo](https://github.com/IgnacioRiffop/IgnacioRiffop/blob/main/foto.jpg)
-
 # ¡Hola! 👋
 
 Mi nombre es Ignacio, estudiante de DuocUC. Me apasiona la programación y estoy emocionado/a por compartir mis proyectos y aprender de otros desarrolladores en GitHub.
