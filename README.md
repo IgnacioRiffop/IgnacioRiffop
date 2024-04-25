@@ -27,5 +27,8 @@ Puedes echar un vistazo a algunos de mis proyectos destacados:
 
 ¡No dudes en contactarme si quieres colaborar en algún proyecto o simplemente charlar sobre programación!
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=IgnacioRiffop&show_icons=true&theme=radical)
+
+
 
 
