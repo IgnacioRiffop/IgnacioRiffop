@@ -1,38 +1,27 @@
-# ¡Hola! 👋
+# Hola, soy Ignacio Riffo
 
-Mi nombre es Ignacio, estudiante de DuocUC. Me apasiona la programación y estoy emocionado/a por compartir mis proyectos y aprender de otros desarrolladores en GitHub.
+Ingeniero en Informática (Duoc UC) y Desarrollador Full Stack en Santiago, Chile.
+Trabajo en Broom Group, donde me encargo de sistemas internos de punta a punta:
+levanto requerimientos, defino la arquitectura, programo frontend y backend,
+monto la infraestructura y dejo todo funcionando en producción.
 
-## Sobre mí
+## Lo que he construido
 
-- 💻 Actualmente estoy estudiando Ingenieria en informatica.
-- 🌱 Estoy aprendiendo constantemente sobre nuevas tecnologías y herramientas.
-- 👯 Estoy buscando colaborar en proyectos interesantes y desafiantes.
-- 💬 Siempre estoy abierto/a a conversar sobre programación, proyectos o cualquier cosa que te apasione.
+- **Sistema de Gestión Aduanera (SGA):** automatiza la manifestación de documentos de carga marítima. En producción.
+- **Cotizador web de estructuras tipo domo:** plataforma para cotizar en línea, con panel de administración.
+- **Mesa de ayuda interna:** sistema de tickets para soporte, desde los requerimientos hasta el modelo de datos.
+- **Optimización de servidores en GCP:** horarios de encendido y apagado para bajar costos de nube.
 
-## Tecnologías que me interesan
+## Tecnologías
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+**Lenguajes:** TypeScript, JavaScript, Python, SQL
+**Frontend:** React, Next.js
+**Backend:** Node.js, Django
+**Bases de datos:** PostgreSQL, MySQL, SQL Server, BigQuery
+**Infraestructura:** Google Cloud Platform, Linux/Ubuntu, Nginx, Git
+**Otros:** Power BI, Google Maps API, Mapbox, SAP (soporte funcional)
 
-Aquí hay algunas tecnologías con las que estoy familiarizado/a o me gustaría aprender:
+## Certificaciones
 
-- **Lenguajes de programación:** Python, Java
-- **Frameworks y bibliotecas:** Ionic, Django
-- **Bases de datos:** MySQL, Oracle
-- **Herramientas de control de versiones:** Git, GitHub
-
-## Proyectos destacados
-
-Puedes echar un vistazo a algunos de mis proyectos destacados:
-
-1. [TelLLevoApp]([Enlace al Proyecto](https://github.com/IgnacioRiffop/TeLLevoApp)): Aplicacion movil de transporte de estudiantes Duoc.
-2. [Tienda de mascotas]([Enlace al Proyecto](https://github.com/IgnacioRiffop/Proyecto-Web)): Sistema web de venta de productos para mascotas.
-
-¡No dudes en contactarme si quieres colaborar en algún proyecto o simplemente charlar sobre programación!
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=IgnacioRiffop&show_icons=true&theme=radical)
-
-
-
-
-
-
+- PCEP: Certified Entry-Level Python Programmer (Python Institute, 2025)
+- Inglés intermedio-avanzado (TOEIC, 2024)
